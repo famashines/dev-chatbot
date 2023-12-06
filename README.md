@@ -17,3 +17,4 @@ Here is the [link](https://go-techsolution.hashnode.dev/lets-understand-what-is-
 
 Here is the [link](https://www.freecodecamp.org/news/markdown-cheat-sheet/) of markdown cheat sheet Intro.
 
+Here is the [link](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) of an Article about JavaScript.
